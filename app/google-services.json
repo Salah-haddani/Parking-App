@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "600246175739",
+    "firebase_url": "https://esp32-cap-obstacle-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "esp32-cap-obstacle",
+    "storage_bucket": "esp32-cap-obstacle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600246175739:android:143ae78177a46279b82d5e",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600246175739-rgugg7ucn863o1v7dl17u6n2p146c0j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHtQAXnZ7Yr9geC7NUazQPp2VZjDoDEfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600246175739-rgugg7ucn863o1v7dl17u6n2p146c0j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
